@@ -1,1 +1,1 @@
-# tictactoe-arduini-serial
+# tictactoe-arduino-serial
