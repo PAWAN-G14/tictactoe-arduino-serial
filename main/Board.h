@@ -1,5 +1,5 @@
 int winLoseDraw(String pos){
-
+ 
     if(
         (pos[0]=='x' && pos[3]=='x' && pos[6]=='x') || 
         (pos[1]=='x' && pos[4]=='x' && pos[7]=='x') || 
