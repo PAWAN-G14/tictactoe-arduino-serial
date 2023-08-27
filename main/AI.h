@@ -1,5 +1,5 @@
 #include "Board.h"
-
+ 
 float minimax(String pos, int depth, bool player){
 	
 	int status = winLoseDraw(pos);									
