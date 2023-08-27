@@ -97,7 +97,7 @@ int bestMove(String pos, bool player)
 		}
 	}
 
-	// Uncomment for measuring time output the measurement.
+	// Uncomment for measuring time taken for evaluation.
 	// float absolute_eval = evaluation*((player)?1:-1);
 	// etime = (millis()/1000.0)-stime;
 	// Serial.println("\n-------------------------------------------------");
