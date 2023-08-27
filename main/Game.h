@@ -1,5 +1,5 @@
 #include "AI.h"
-
+ 
 class Game{
     private:
         Board board;
