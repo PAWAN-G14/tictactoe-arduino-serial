@@ -31,7 +31,7 @@ float minimax(String pos, int depth, bool player){
 
 	// Some neccessary vairables.
 	float  child_node_eval, 				// evaluation of a particular variation.
-			evaluation = 3;					// best evaluation so far.
+		evaluation = 3;					// best evaluation so far.
 	char   player_char = (player)?'x':'o';  // converts the boolean notation of the player's role to 'x' or 'o'.
 	String variant;                         // A particular variation of the position.
 	// NOTE: Here, evaluation can only be a value between 1.0 and -1.0 . It is initialized with 3 as an exception.
@@ -78,7 +78,7 @@ int bestMove(String pos, bool player)
 	****************************************************************************************************/
 
 	float  child_node_eval, 
-			evaluation = 3;
+		evaluation = 3;
 	int    best_move;
 	char   player_char = (player)?'x':'o';
 	String variant;
