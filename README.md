@@ -7,7 +7,7 @@ It uses the serial monitor to interact with the user/gamer.
 <br><br>
 Feel free to experiment with the code by modifying to to run on different MCUs. ;D
 <br>
-Checkout AI.py for minimax implementation with documented code :)
+Checkout include/AI.h for minimax implementation with documented code :)
 <br>
 [Click for quick Walkthrough and Demo video](https://youtu.be/EWbEizUnW-c)
 
